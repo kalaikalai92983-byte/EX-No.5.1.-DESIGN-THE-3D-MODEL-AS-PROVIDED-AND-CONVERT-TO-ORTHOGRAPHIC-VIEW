@@ -37,6 +37,7 @@ Switch to drawing mode from design mode
 
 ## OUTPUT
 
+<img width="1920" height="1080" alt="Screenshot 2025-10-07 233005" src="https://github.com/user-attachments/assets/14faff70-feed-4a34-9628-2b9c7d7bfe22" />
 
 ## RESULT:
 Thus, the given 3D model is converted into orthographic view.
